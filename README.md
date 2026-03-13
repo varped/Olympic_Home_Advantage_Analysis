@@ -1,7 +1,7 @@
-# Crime-Prediction-Model
-ECS 111 Final project: Forecasting Crime with Contextual Features
+# Summer-Olympics-Home-Advantage-Analysis
+STA 141B Final Project: Analyzing Subjective vs. Objective Performance Trends in the Summer Olympics (1896–2016)
 
-This repository contains the Jupyter notebook for our ECS 111 Final Project. We built a machine learning pipeline to forecast crime in San Francisco using spatial, temporal, and environmental data.
+This repository contains the full analysis of the "Home Field Advantage" in the Summer Olympics. Our study specifically investigates whether host-nation success is more pronounced in judged sports (subjective) compared to timed/measured sports (objective).
 
 ## Files
 - `Access to our Interactive HeatMap based on our Model`: (https://varped.github.io/Crime-Prediction-Model/Crime_Prediction_HeatMap_Final.html)
@@ -10,9 +10,9 @@ This repository contains the Jupyter notebook for our ECS 111 Final Project. We 
 - `Cleaned and Revised Dataset (Dataset used for Model)`: https://drive.google.com/file/d/1_1DZoQpK4EIzCo-jnSZLo1UD_JqDoEbF/view?usp=drive_link
 - `Public Datasets`:
 
-SF Crime Data: https://data.sfgov.org/Public-Safety/SF-Crime-Heat-Map/q6gg-sa2p
-
-SF Weather Data: https://www.ncei.noaa.gov/access/search/data-search/daily-summaries
+- Olympic_Home_Advantage_Analysis.ipynb: The primary Jupyter Notebook containing the Kaggle API integration, data cleaning, feature engineering (Is_Host flag), and statistical visualizations.
+- Host_Advantage_Interactive_Map.html: A Folium-based visualization showing historical host nations and their relative performance boosts.
+- Olympics Dataset from Kaggle: 
 
 ## How to Run the Code
 You can run the notebook by following these steps:
