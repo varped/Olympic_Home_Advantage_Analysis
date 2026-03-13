@@ -11,12 +11,10 @@ This repository contains the full analysis of the "Home Field Advantage" in the 
 
 ## How to Run the Code
 You can run the notebook by following these steps:
-- API Key: Generate a kaggle.json at Kaggle Settings (see Auth Guide): https://github.com/Kaggle/kaggle-cli/blob/main/docs/README.md#authentication
 - Download the Notebook:
 Click on Olympic_Home_Advantage_Analysis.ipynb in this repository and download the file to your computer.
 - Open Jupyter Notebook or Jupyter Lab
 - Navigate to the downloaded .ipynb file
-- Input your API token in the first cell (folllow the comments)
 - Run all cells in order to reproduce the full analysis and predictions.
 
 ## Proficiency of Topics
