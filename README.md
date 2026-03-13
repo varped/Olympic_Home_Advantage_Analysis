@@ -1,5 +1,5 @@
 # Summer-Olympics-Home-Advantage-Analysis
-STA 141B Final Project: Analyzing Subjective vs. Objective Performance Trends in the Summer Olympics (1896–2016)
+STA 141B Final Project: Analyzing Home Advantage, as well as Subjective vs. Objective Performance Trends in the Summer Olympics (1896–2016)
 
 This repository contains the full analysis of the "Home Field Advantage" in the Summer Olympics. Our study specifically investigates whether host-nation success is more pronounced in judged sports (subjective) compared to timed/measured sports (objective).
 
