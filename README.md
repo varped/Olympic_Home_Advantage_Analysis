@@ -6,7 +6,7 @@ This repository contains the full analysis of the "Home Field Advantage" in the 
 ## Files
 - `Olympic_Home_Advantage_Analysis.ipynb`: The primary Jupyter Notebook containing the Kaggle API integration, data cleaning, feature engineering, and statistical visualizations.
 - `Cleaned_Summer_Olympics_Dataset`: The cleaned dataset used for the Project Analysis. https://drive.google.com/file/d/1XDfMgdT21DdeBJultCQ7cOsvhlbcX0_1/view?usp=sharing
-- `olympic_host_intensity.html`: A Folium-based visualization showing historical host nations and their relative performance boosts.
+- `olympic_host_intensity.html`: A Folium-based visualization showing historical host nations and their relative performance boosts. https://varped.github.io/Olympic_Home_Advantage_Analysis/olympic_host_intensity.html
 - `Public Dataset (Olympics Dataset from Kaggle)`: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data
 
 ## How to Run the Code
