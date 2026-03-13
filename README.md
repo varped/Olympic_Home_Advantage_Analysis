@@ -20,4 +20,4 @@ Click on Olympic_Home_Advantage_Analysis.ipynb in this repository and download t
 - Run all cells in order to reproduce the full analysis and predictions.
 
 ## Proficiency of Topics
-- Web Scraping, Visualization (EDA and Folium), Pandas, Stats Model (Logit Regression)
+- Web Scraping / API, Visualization (EDA and Folium), Pandas, Stats Model (Logit Regression)
